@@ -1,5 +1,5 @@
 import java.util.*;
-public class Encapsulation_Ex {
+public class Encapsulation_Ex1{
 	
 	private int s_Id;
 	private String s_Name;
